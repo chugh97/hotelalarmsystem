@@ -17,9 +17,9 @@ namespace WakeUpSystem
 
             wakeups.Enqueue(new WakeUp() { RoomNumber = 1, WakeUpTime = DateTime.MinValue.ToEpoch() }); //No Alarm set
             wakeups.Enqueue(new WakeUp() { RoomNumber = 2, WakeUpTime = DateTime.Today.AddHours(22).AddMinutes(08).ToEpoch() });
-            wakeups.Enqueue(new WakeUp() { RoomNumber = 3, WakeUpTime = DateTime.Now.AddMinutes(1).ToEpoch() });
-            wakeups.Enqueue(new WakeUp() { RoomNumber = 4, WakeUpTime = DateTime.Now.AddMinutes(2).ToEpoch() });
-            wakeups.Enqueue(new WakeUp() { RoomNumber = 5, WakeUpTime = DateTime.Now.AddMinutes(2).ToEpoch() });
+            wakeups.Enqueue(new WakeUp() { RoomNumber = 3, WakeUpTime = DateTime.Today.AddHours(DateTime.Now.Hour).AddMinutes(DateTime.Now.Minute + 1).ToEpoch() });
+            wakeups.Enqueue(new WakeUp() { RoomNumber = 4, WakeUpTime = DateTime.Today.AddHours(DateTime.Now.Hour).AddMinutes(DateTime.Now.Minute + 2).ToEpoch() });
+            wakeups.Enqueue(new WakeUp() { RoomNumber = 5, WakeUpTime = DateTime.Today.AddHours(DateTime.Now.Hour).AddMinutes(DateTime.Now.Minute + 3).ToEpoch() });
 
             return wakeups;
         }

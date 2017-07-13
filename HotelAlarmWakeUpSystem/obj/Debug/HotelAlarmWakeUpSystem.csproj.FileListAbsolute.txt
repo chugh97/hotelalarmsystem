@@ -6,3 +6,11 @@ c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\Hote
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.csprojResolveAssemblyReference.cache
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.exe
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\bin\Debug\HotelAlarmWakeUpSystem.exe.config
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.exe
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\bin\Debug\HotelAlarmWakeUpSystem.exe
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\bin\Debug\HotelAlarmWakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\bin\Debug\WakeUpSystem.dll
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\bin\Debug\WakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\HotelAlarmWakeUpSystem\obj\Debug\HotelAlarmWakeUpSystem.csprojResolveAssemblyReference.cache

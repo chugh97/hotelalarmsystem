@@ -2,3 +2,8 @@ c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\Wake
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\bin\Debug\WakeUpSystem.pdb
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\obj\Debug\WakeUpSystem.dll
 c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\obj\Debug\WakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\WakeUpSystem\bin\Debug\WakeUpSystem.dll
+C:\Users\shale\Source\Repos\hotelalarmsystem\WakeUpSystem\bin\Debug\WakeUpSystem.pdb
+C:\Users\shale\Source\Repos\hotelalarmsystem\WakeUpSystem\obj\Debug\WakeUpSystem.csprojResolveAssemblyReference.cache
+C:\Users\shale\Source\Repos\hotelalarmsystem\WakeUpSystem\obj\Debug\WakeUpSystem.dll
+C:\Users\shale\Source\Repos\hotelalarmsystem\WakeUpSystem\obj\Debug\WakeUpSystem.pdb
