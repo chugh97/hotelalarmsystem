@@ -1,0 +1,4 @@
+c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\bin\Debug\WakeUpSystem.dll
+c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\bin\Debug\WakeUpSystem.pdb
+c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\obj\Debug\WakeUpSystem.dll
+c:\users\shale\documents\visual studio 2015\Projects\HotelAlarmWakeUpSystem\WakeUpSystem\obj\Debug\WakeUpSystem.pdb
